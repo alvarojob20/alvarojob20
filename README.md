@@ -1,8 +1,9 @@
 **BIO**
  
-- 👋 Hi, I’m a Biomedical Engineer from Colombia who proclaims the statement "NEVER STOP LEARNING" as a life philosophy.
-- 👀 I’m interested in Data Analytics, looking forward to get into the Machine Learning and AI fields in the future.
-- 🌱 I've acquired the required skills to become a Data Analyst, and now I am very eager to put them into action.
-- 💞️ I’m looking forward to collaborate on data analysis projects.
+- 👋 As a driven and ambitious Biomedical Engineer from Colombia, I am dedicated to constantly learning and expanding my knowledge in the field of data analysis.
+- 👀 I have a passion for exploring the latest technologies and techniques in machine learning and AI, and am eager to put my skills to use in a professional setting.
+- 🌱 With hands-on experience in a range of tools and technologies, including Python, Jupyter notebooks, SQL, IBM Cognos Analytics, IBM DB2, and Microsoft Excel, I am well-equipped to tackle any data analysis challenge.
+- 💞️I am confident in my abilities to deliver high-quality results, excited to take on new challenges, and eager to apply my skills to help businesses and organizations unlock the insights hidden in their data.
 - 📫 Feel free to reach me at my LinkedIn profile https://www.linkedin.com/in/alvaroj-ortegab/
 
+  
