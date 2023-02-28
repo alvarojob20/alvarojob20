@@ -1,5 +1,7 @@
 **BIO**
+
 👋 As a driven and ambitious Biomedical Engineer from Colombia, I am dedicated to constantly learning and expanding my knowledge in the field of data analysis. 
+
 👀 I have a passion for exploring the latest technologies and techniques in machine learning and AI, and am eager to put my skills to use in a professional setting.
 
 With hands-on experience in a range of tools and technologies, I am well-equipped to tackle any data analysis challenge.
