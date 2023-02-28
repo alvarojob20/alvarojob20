@@ -4,13 +4,13 @@
 
 With hands-on experience in a range of tools and technologies, I am well-equipped to tackle any data analysis challenge.
 
-• Experienced with Python and its libraries for data analysis, including numpy, pandas, beautifulsoup, requests, sklearn, dash, plotly, matplotlib, seaborn, and sql magic
-• Proficient in using Jupyter notebooks for data analysis and visualization
-• Skilled in SQL for querying and managing databases
-• Familiar with IBM Cognos Analytics for creating dashboards
-• Experienced with IBM DB2 for managing and storing data
-• Proficient in Microsoft Excel for data analysis and visualization.
-• In adition, I'm enrolled in the Data Visualization with Tableau Specialization at University of California, Davis.
+- Experienced with Python and its libraries for data analysis, including numpy, pandas, beautifulsoup, requests, sklearn, dash, plotly, matplotlib, seaborn, and sql magic.
+- Proficient in using Jupyter notebooks for data analysis and visualization
+- Skilled in SQL for querying and managing databases
+- Familiar with IBM Cognos Analytics for creating dashboards
+- Experienced with IBM DB2 for managing and storing data
+- Proficient in Microsoft Excel for data analysis and visualization.
+- In adition, I'm enrolled in the Data Visualization with Tableau Specialization at University of California, Davis.
 
 - 💞️I am confident in my abilities to deliver high-quality results, excited to take on new challenges in the field of data analysis and eager to apply my skills to help businesses and organizations unlock the insights hidden in their data.
 
