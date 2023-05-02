@@ -16,9 +16,9 @@ With hands-on experience in a range of tools and technologies, I am well-equippe
 
 💞️I am confident in my abilities to deliver high-quality results, excited to take on new challenges in the field of data analysis and eager to apply my skills to help businesses and organizations unlock the insights hidden in their data.
 
-📫 Feel free to reach me at my LinkedIn profile https://www.linkedin.com/in/alvaroj-ortegab/
+![image](https://user-images.githubusercontent.com/102632925/235557714-5a4b56ff-0c5e-427c-a435-e0e353eebc04.png) Feel free to reach me at my LinkedIn profile https://www.linkedin.com/in/alvaroj-ortegab/
 
-![image](https://user-images.githubusercontent.com/102632925/235557426-dd3039d6-49ae-462f-ba27-d1361f8c690f.png) If you believe we could be a good fit to work together, hit me up on Upwork and we can discuss the details https://www.upwork.com/freelancers/~013d024b1204ce3b3a?s=1110580752008335360
+![image](https://user-images.githubusercontent.com/102632925/235557685-41767055-f1cb-4772-8698-6a6e5c4ef186.png) If you believe we could be a good fit to work together, hit me up on Upwork and we can discuss the details https://www.upwork.com/freelancers/~013d024b1204ce3b3a?s=1110580752008335360
 
 
 
