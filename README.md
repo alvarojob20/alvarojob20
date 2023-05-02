@@ -18,7 +18,7 @@ With hands-on experience in a range of tools and technologies, I am well-equippe
 
 📫 Feel free to reach me at my LinkedIn profile https://www.linkedin.com/in/alvaroj-ortegab/
 
-🤝 If you believe we could be a good fit to work together, hit me up on Upwork and we can discuss the details https://www.upwork.com/freelancers/~013d024b1204ce3b3a?s=1110580752008335360
-![image](https://user-images.githubusercontent.com/102632925/235557426-dd3039d6-49ae-462f-ba27-d1361f8c690f.png)
+![image](https://user-images.githubusercontent.com/102632925/235557426-dd3039d6-49ae-462f-ba27-d1361f8c690f.png) If you believe we could be a good fit to work together, hit me up on Upwork and we can discuss the details https://www.upwork.com/freelancers/~013d024b1204ce3b3a?s=1110580752008335360
+
 
 
