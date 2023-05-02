@@ -7,7 +7,6 @@
 With hands-on experience in a range of tools and technologies, I am well-equipped to tackle any data analysis challenge.
 
 - Experienced with Python and its libraries for data analysis, including numpy, pandas, beautifulsoup, requests, sklearn, dash, plotly, matplotlib, seaborn, and sql magic.
-- Proficient in using Jupyter notebooks for data analysis and visualization
 - Skilled in SQL for querying and managing databases
 - Familiar with IBM Cognos Analytics for creating dashboards
 - Experienced with IBM DB2 for managing and storing data
