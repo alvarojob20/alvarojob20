@@ -11,13 +11,13 @@ With hands-on experience in a range of tools and technologies, I am well-equippe
 - Familiar with IBM Cognos Analytics for creating dashboards
 - Experienced with IBM DB2 for managing and storing data
 - Proficient in Microsoft Excel for data analysis and visualization.
-- In adition, I'm enrolled in the Data Visualization with Tableau Specialization at University of California, Davis.
+- Unlocking the power of data visualization and insights with my expertise in harnessing Tableau software's full potential.
 
 💞️I am confident in my abilities to deliver high-quality results, excited to take on new challenges in the field of data analysis and eager to apply my skills to help businesses and organizations unlock the insights hidden in their data.
 
 ![image](https://user-images.githubusercontent.com/102632925/235557714-5a4b56ff-0c5e-427c-a435-e0e353eebc04.png) Feel free to reach me at my LinkedIn profile https://www.linkedin.com/in/alvaroj-ortegab/
 
-![image](https://user-images.githubusercontent.com/102632925/235557885-a5058ef5-1754-45ab-aed8-b31a29f9fe48.png) If you believe we could be a good fit to work together, hit me up on Upwork and we can discuss the details https://www.upwork.com/freelancers/~013d024b1204ce3b3a?s=1110580752008335360
+![image](https://user-images.githubusercontent.com/102632925/235557885-a5058ef5-1754-45ab-aed8-b31a29f9fe48.png) If you believe we could be a good fit to work together and I can help you solve any particular project, do not hesitate to contact me on Upwork and we can discuss the details https://www.upwork.com/workwith/alvarojob20
 
 
 
