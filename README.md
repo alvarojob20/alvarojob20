@@ -11,7 +11,7 @@ With hands-on experience in a range of tools and technologies, I am well-equippe
 - Familiar with IBM Cognos Analytics for creating dashboards
 - Experienced with IBM DB2 for managing and storing data
 - Proficient in Microsoft Excel for data analysis and visualization.
-- Unlocking the power of data visualization and insights with my expertise in harnessing Tableau software's full potential. Take a look at my Tableua profile. https://public.tableau.com/app/profile/alvaro.ortega7778/vizzes
+- Unlocking the power of data visualization and insights with my expertise in harnessing Tableau software's full potential. Take a look at my Tableau profile. https://public.tableau.com/app/profile/alvaro.ortega7778/vizzes
 
 💞️I am confident in my abilities to deliver high-quality results, excited to take on new challenges in the field of data analysis and eager to apply my skills to help businesses and organizations unlock the insights hidden in their data.
 
